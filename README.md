@@ -2,11 +2,7 @@
 
 ### A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-## This is a leech to FILE repo! Leech to STREAM(video) availabe here > [LEECH TO STREAM](https://github.com/prgofficial/LeechToStream)
-
-
-### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
-### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
+## This is a Leech to File repo! Leech to Stream (video) availabe here > [LEECH TO STREAM](https://github.com/Chris-Carlo/LeechToStream)
 
 
 # Benefits :-
@@ -19,15 +15,13 @@
 	✓ Added DISK details in /status commad.
 
 
-### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo
-
-### Thank [Gautam Kumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) for the added Cool features 🤩
-
 ## Installing
 
 ### The Easy Way
 
-Heroku Support removed temporarily!! Dont deploy, You'll get ban :(
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chris-Carlo/LeechToFile.git)
+
+Deploy in your own risk. Heroku Support removed temporarily! You'll get ban.
 
 ### The Legacy Way
 
